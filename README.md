@@ -1,4 +1,4 @@
-# Unleased Automation using Selenium, C#, SpecFlow
+# Automation Framework using Selenium, C#, BDD(Specflow), NUnit, Extent Report
 
 This sproject requires below nuget packages installed in visual studio:
 
@@ -11,7 +11,7 @@ This sproject requires below nuget packages installed in visual studio:
 - log4net 2.0.8
 - extent reports 3.1.3
 
-#instructions
+# How to Execute?
 
 - Clone the project to any location.
 
@@ -20,3 +20,7 @@ This sproject requires below nuget packages installed in visual studio:
 - open Test Explorer
 
 - Run tests in test explorer & see results in Test Explorer
+
+# Reporting
+
+-At the end of execution, a Logfile(log4Net) and an HTML report(Extent Report) inside bin/debug folder.
